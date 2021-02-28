@@ -14,7 +14,7 @@ Konsulatcje umawiane są indywidualnie poprzez MSTeams.
 ### Kontakt
 AGH WFiIS <br>
 D11 pok. 106 <br>
-Ul. Kawiory 26a <br>
+ul. Kawiory 26a, 30-059 Kraków <br>
 tel. 12 617 29 96 <br>
 mail: amucha@agh.edu.pl
 
