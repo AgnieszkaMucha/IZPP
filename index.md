@@ -5,7 +5,7 @@
 ### WYKŁADY
 
 - Wykłady prowadzone są on-line we wtorki w godzinach 15:45-17:15 na platformie MSTeams
-[link](https:https://teams.microsoft.com/l/channel/19%3af0a9e16f9e70405497af02acb61d38f8%40thread.tacv2/Og%25C3%25B3lny?groupId=f98ae9ad-e759-43e0-8c20-002893f47c7a&tenantId=80b1033f-21e0-4a82-bbc0-f05fdccd3bc8)
+[link](https://teams.microsoft.com/l/team/19%3af0a9e16f9e70405497af02acb61d38f8%40thread.tacv2/conversations?groupId=f98ae9ad-e759-43e0-8c20-002893f47c7a&tenantId=80b1033f-21e0-4a82-bbc0-f05fdccd3bc8)
 - Wszystkie materiały do wykładu zamieszczane są na MSTeams.
 
 ### Konsultacje 
