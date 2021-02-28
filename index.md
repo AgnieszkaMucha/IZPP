@@ -1,6 +1,6 @@
 # FIZYKA 1
 ## Wydział Górnictwa i Geoinżynierii
-## Inżynieria i Zarządzanie Procesami Przemysłowymi
+# Inżynieria i Zarządzanie Procesami Przemysłowymi
 
 ### WYKŁADY
 
