@@ -9,7 +9,14 @@
 - Wszystkie materiały do wykładu zamieszczane są na MSTeams.
 
 ### Konsultacje 
-konsulatcje umawiane są indywidualnie poprzez MSTeams.
+Konsulatcje umawiane są indywidualnie poprzez MSTeams.
+
+### Kontakt
+AGH WFiIS
+budynek D11 pok. 106
+Ul. Kawiory 26a
+tel. 12 617 29 96
+mail: amucha@agh.edu.pl
 
 ### Literatura
 1. Fizyka dla szkół wyższych - OpenSt wersja online [link](https://www.openstax.pl/"pl)
