@@ -13,7 +13,7 @@ konsulatcje umawiane są indywidualnie poprzez MSTeams.
 ### Literatura
 1. Fizyka dla szkół wyższych - OpenSt wersja online [link](https://www.openstax.pl/"pl)
 2. D. Halliday, R.Resnick, J. Walker "Podstawy Fizyk1" t.1-5, + Zbior zadań
-Podręcznik jest dostępny w zasobach Biblioteki Głównej AGH: t.1, t.3. (dostępny z komputerów AGH
+Podręcznik jest dostępny w zasobach Biblioteki Głównej AGH: t.1, t.3.
 3. J. Jedrzejewski, W.Kruczek "Zbior zadan z fizyki" t.1-2,
 
 
