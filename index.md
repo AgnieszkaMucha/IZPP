@@ -12,10 +12,10 @@
 Konsulatcje umawiane są indywidualnie poprzez MSTeams.
 
 ### Kontakt
-AGH WFiIS
-budynek D11 pok. 106
-Ul. Kawiory 26a
-tel. 12 617 29 96
+AGH WFiIS <br>
+budynek D11 pok. 106 <br>
+Ul. Kawiory 26a <br>
+tel. 12 617 29 96 <br>
 mail: amucha@agh.edu.pl
 
 ### Literatura
