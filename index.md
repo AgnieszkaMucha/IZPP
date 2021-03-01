@@ -19,7 +19,7 @@ tel. 12 617 29 96 <br>
 mail: amucha@agh.edu.pl
 
 ### Literatura
-1. Fizyka dla szkół wyższych - OpenSt wersja online [link](https://openstax.pl/podreczniki)
+1. Fizyka dla szkół wyższych - OpenStax wersja online [link](https://openstax.pl/podreczniki)
 2. D. Halliday, R.Resnick, J. Walker "Podstawy Fizyk1" t.1-5, + Zbior zadań
 3. J. Jedrzejewski, W.Kruczek "Zbior zadan z fizyki" t.1-2,
 
