@@ -9,6 +9,7 @@
 2. Wszystkie materiały i notatki zamieszczane są na MSTeams.
 - [Informacje wstępne](IZPP_Wstep.pdf)
 - [Kinematyka](Kinematyka.pdf)
+- [Dynamika](IZPP_2_Dynamika)
 
 
 ### Konsultacje 
