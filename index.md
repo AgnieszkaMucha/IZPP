@@ -10,6 +10,7 @@
 - [Informacje wstępne](IZPP_Wstep.pdf)
 - [Kinematyka](Kinematyka.pdf)
 - [Dynamika](IZPP_2_Dynamika.pdf)
+- [Praca, energia kinetyczna](IZPP_3_PracaEnergiaKinetyczna.pdf)
 
 
 ### Konsultacje 
