@@ -11,7 +11,7 @@
 - [Kinematyka](Kinematyka.pdf)
 - [Dynamika](IZPP_2_Dynamika.pdf)
 - [Praca, energia kinetyczna](IZPP_3_PracaEnergiaKinetyczna.pdf)
-- [Energia potencjalna](IZPP_4_EnergiaPotencjalne.pdf)
+- [Energia potencjalna](IZPP_4_EnergiaPotencjalna.pdf)
 
 
 ### Konsultacje 
