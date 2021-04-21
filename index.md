@@ -12,6 +12,8 @@
 - [Dynamika](IZPP_2_Dynamika.pdf)
 - [Praca, energia kinetyczna](IZPP_3_PracaEnergiaKinetyczna.pdf)
 - [Energia potencjalna](IZPP_4_EnergiaPotencjalna.pdf)
+- [Pęd i zderzenia](IZPP_5_PedZderzenia.pdf)
+- [Ruch obrotowy](IZPP_6_RuchObrotowy.pdf) 
 
 
 ### Konsultacje 
