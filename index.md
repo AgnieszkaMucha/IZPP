@@ -1,12 +1,23 @@
 # FIZYKA 1
-## Wydział Górnictwa i Geoinżynierii
+## Wydział Inżynierii Lądowej i Gospodarki Zasobami
 # Inżynieria i Zarządzanie Procesami Przemysłowymi
 
-### WYKŁADY
+### WYKŁADY FIZYKA II
+1. Wykłady prowadzone są on-line w środy w godzinach 16:15 - 17:45 w sali wykładowej A budynku D10.
+2. Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów: 
+- [Informacje wstępne](IZPP_Wstep_2.pdf)
+- Elektrostatyka 1 [wykład](IZPP_1_Elektrostatyka_1.pdf)
+- Elektrostatyka 2 [wykład](IZPP_2_Elektrostatyka_2.pdf)
+- Obwody prądu stałego [wykład](IZPP_3_Prad.pdf)
+- Pole magnetyczne 1 [wykład](IZPP_4_PoleMagnetyczne_1.pdf)
+- Pole magnetyczne 2 [wykład](IZPP_5_PoleMagnetyczne_2.pdf)
+- Fale elektromagnetyczne [wykład](IZPP_6_FaleElektromagnetycze.pdf)
+- Optyka [wykład](IZPP_7_Optyka.pdf)
+- Kwanty [wykład](IZPP_8_Kwanty.pdf)
+- Atomy i budowa materii [wykład](IZPP_9_Atomy_CialaStale.pdf)
+- Rozważania o fizyce jądrowej [wykład](IZPP_10_Jadrowa.pdf)
 
-1. Wykłady prowadzone są on-line we wtorki w godzinach 15:45-17:15 na platformie MSTeams
-[link](https://teams.microsoft.com/l/team/19%3af0a9e16f9e70405497af02acb61d38f8%40thread.tacv2/conversations?groupId=f98ae9ad-e759-43e0-8c20-002893f47c7a&tenantId=80b1033f-21e0-4a82-bbc0-f05fdccd3bc8)
-2. Wszystkie materiały i notatki zamieszczane są na MSTeams.
+### WYKŁADY FIZYKA I
 - [Informacje wstępne](IZPP_Wstep.pdf)
 - [Kinematyka](Kinematyka.pdf)
 - [Dynamika](IZPP_2_Dynamika.pdf)
@@ -17,7 +28,7 @@
 
 
 ### Konsultacje 
-Konsulatcje umawiane są indywidualnie poprzez MSTeams.
+
 
 ### Kontakt
 AGH WFiIS <br>
