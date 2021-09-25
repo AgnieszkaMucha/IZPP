@@ -3,7 +3,7 @@
 # Inżynieria i Zarządzanie Procesami Przemysłowymi
 
 ### WYKŁADY FIZYKA II
-1. Wykłady prowadzone są on-line w środy w godzinach 16:15 - 17:45 w sali wykładowej A budynku D10.
+1. Wykłady prowadzone są w środy w godzinach 16:15 - 17:45 w sali wykładowej A budynku D10.
 2. Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów: 
 - Informacje wstępne [notatki](IZPP_Wstep_2.pdf)
 - Elektrostatyka 1 [wykład](IZPP_1_Elektrostatyka_1.pdf)
