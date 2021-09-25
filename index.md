@@ -1,4 +1,4 @@
-# FIZYKA 1
+# FIZYKA
 ## Wydział Inżynierii Lądowej i Gospodarki Zasobami
 # Inżynieria i Zarządzanie Procesami Przemysłowymi
 
