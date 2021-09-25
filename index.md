@@ -5,7 +5,7 @@
 ### WYKŁADY FIZYKA II
 1. Wykłady prowadzone są on-line w środy w godzinach 16:15 - 17:45 w sali wykładowej A budynku D10.
 2. Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów: 
-- [Informacje wstępne](IZPP_Wstep_2.pdf)
+- Informacje wstępne [notatki](IZPP_Wstep_2.pdf)
 - Elektrostatyka 1 [wykład](IZPP_1_Elektrostatyka_1.pdf)
 - Elektrostatyka 2 [wykład](IZPP_2_Elektrostatyka_2.pdf)
 - Obwody prądu stałego [wykład](IZPP_3_Prad.pdf)
