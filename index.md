@@ -9,7 +9,7 @@
 - Elektrostatyka 1 [wykład](IZPP_1_Elektrostatyka_1.pdf)
 - Elektrostatyka 2 [wykład](IZPP_2_Elektrostatyka_2.pdf)
 - Obwody prądu stałego [wykład](IZPP_3_Prad.pdf)
-- Pole magnetyczne 1 [wykład](IZPP_4_PoleMagnetyczne_1.pdf)
+- Pole magnetyczne 1 [wykład](IZPP_4_Pole_magnetyczne_1.pdf)
 - Pole magnetyczne 2 [wykład](IZPP_5_PoleMagnetyczne_2.pdf)
 - Fale elektromagnetyczne [wykład](IZPP_6_FaleElektromagnetycze.pdf)
 - Optyka [wykład](IZPP_7_Optyka.pdf)
