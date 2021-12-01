@@ -11,7 +11,7 @@
 - Obwody prądu stałego [wykład](IZPP_3_Prad.pdf)
 - Pole magnetyczne 1 [wykład](IZPP_4_Pole_magnetyczne_1.pdf)
 - Pole magnetyczne 2 [wykład](IZPP_5_Pole_magnetyczne_2.pdf)
-- Fale elektromagnetyczne [wykład](IZPP_6_FaleElektromagnetycze.pdf)
+- Fale elektromagnetyczne [wykład](IZPP_FaleElektromagnetycze.pdf)
 - Optyka [wykład](IZPP_7_Optyka.pdf)
 - Kwanty [wykład](IZPP_8_Kwanty.pdf)
 - Atomy i budowa materii [wykład](IZPP_9_Atomy_CialaStale.pdf)
