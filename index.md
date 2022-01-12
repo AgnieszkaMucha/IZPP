@@ -3,8 +3,8 @@
 # Inżynieria i Zarządzanie Procesami Przemysłowymi
 
 ## Egzaminy
-1. termin: 31.01 godz. 10 s.A D10 pisemny
-2. termin 4.02 godz. 10 s.a D10 pisemny
+1. termin: 31.01 godz. 10 s.A/D10 pisemny
+2. termin 4.02 godz. 10 s.A/D10 pisemny
 3. termin 17.02 ustny
 
 ### WYKŁADY FIZYKA II
