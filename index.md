@@ -21,6 +21,7 @@
 - Atomy i budowa materii [wykład](IZPP_9_Atomy_CialaStale.pdf)
 - Rozważania o fizyce jądrowej [wykład](IZPP_10_Fiz_Jadrowa.pdf)
 
+
 ### WYKŁADY FIZYKA I
 - [Informacje wstępne](IZPP_Wstep.pdf)
 - [Kinematyka](Kinematyka.pdf)
