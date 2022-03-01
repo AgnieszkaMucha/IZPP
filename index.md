@@ -2,11 +2,13 @@
 ## Wydział Inżynierii Lądowej i Gospodarki Zasobami
 # Inżynieria i Zarządzanie Procesami Przemysłowymi
 
-## Egzaminy
+<!--## Egzaminy
 1. termin: 31.01 godz. 10 s.A/D10 pisemny
 2. termin 4.02 godz. 10 s.A/D10 pisemny
 3. termin 17.02 ustny
+-->
 
+<!--
 ### WYKŁADY FIZYKA II
 1. Wykłady prowadzone są w środy w godzinach 16:15 - 17:45 w sali wykładowej A budynku D10.
 2. Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów: 
@@ -20,7 +22,7 @@
 - Optyka [wykład](IZPP_7_Optyka.pdf)
 - Atomy i budowa materii [wykład](IZPP_9_Atomy_CialaStale.pdf)
 - Rozważania o fizyce jądrowej [wykład](IZPP_10_Fiz_Jadrowa.pdf)
-
+-->
 
 ### WYKŁADY FIZYKA I
 - [Informacje wstępne](IZPP_Wstep.pdf)
